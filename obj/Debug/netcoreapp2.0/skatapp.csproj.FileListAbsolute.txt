@@ -1,0 +1,11 @@
+C:\Users\Christian\Source\Repos\skatapp\bin\Debug\netcoreapp2.0\skatapp.deps.json
+C:\Users\Christian\Source\Repos\skatapp\bin\Debug\netcoreapp2.0\skatapp.runtimeconfig.json
+C:\Users\Christian\Source\Repos\skatapp\bin\Debug\netcoreapp2.0\skatapp.runtimeconfig.dev.json
+C:\Users\Christian\Source\Repos\skatapp\bin\Debug\netcoreapp2.0\skatapp.dll
+C:\Users\Christian\Source\Repos\skatapp\bin\Debug\netcoreapp2.0\skatapp.pdb
+C:\Users\Christian\Source\Repos\skatapp\obj\Debug\netcoreapp2.0\skatapp.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Source\Repos\skatapp\obj\Debug\netcoreapp2.0\skatapp.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\skatapp\obj\Debug\netcoreapp2.0\skatapp.AssemblyInfoInputs.cache
+C:\Users\Christian\Source\Repos\skatapp\obj\Debug\netcoreapp2.0\skatapp.AssemblyInfo.cs
+C:\Users\Christian\Source\Repos\skatapp\obj\Debug\netcoreapp2.0\skatapp.dll
+C:\Users\Christian\Source\Repos\skatapp\obj\Debug\netcoreapp2.0\skatapp.pdb
